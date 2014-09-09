@@ -12,7 +12,7 @@ To try out JBoss BPM Suite on OpenShift please follow the instructions:
 
 If you want to use the [OpenShift create application page](https://openshift.redhat.com/app/console/application_types), enter the cartridge URI in the entry field (at the bottom left of the form:
 
- **https://raw.githubusercontent.com/eschabell/cartridge-bpmPaaS-6/master/metadata/manifest.yml** 
+ **https://raw.githubusercontent.com/eschabell/cartridge-bpmPaaS/master/metadata/manifest.yml** 
 
 Or if you want to use the [rhc command line](https://www.openshift.com/developers/rhc-client-tools-install) type:
 
