@@ -53,10 +53,10 @@ echo 'Generating username and password'
 bpmadmin_username=erics
 bpmanalyst_username=alan
 bpmdeveloper_username=daniel
-bpmuser_username=user
+bpmuser_username=ursla
 bpmmanager_username=mary
 root_username=root
-loan_username=loan
+loan_username=larry
 
 
 bpmadmin_password=bpmsuite

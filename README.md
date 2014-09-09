@@ -32,11 +32,11 @@ JBoss BPM Suite logins:
 
    * u: daniel p:bpmsuite  (developer)
 
-   * u: user   p:bpmsuite  (user)
+   * u: ursla  p:bpmsuite  (user)
 
    * u: mary   p:bpmsuite  (manager)
 
-   * u: loan   p:bpmsuite  (loan)
+   * u: larry  p:bpmsuite  (loan)
 
 Now you can import any repository or the demo projects listed below:
 
