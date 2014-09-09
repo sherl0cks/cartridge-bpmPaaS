@@ -26,9 +26,17 @@ After installation
 
 JBoss BPM Suite logins: 
 
-   * u:erics  p: bpmsuite  (admin)
+   * u:erics   p: bpmsuite  (admin)
 
-   * u: alan  p: bpmsuite  (analyst)
+   * u: alan   p: bpmsuite  (analyst)
+
+   * u: daniel p:bpmsuite  (developer)
+
+   * u: user   p:bpmsuite  (user)
+
+   * u: mary   p:bpmsuite  (manager)
+
+   * u: loan   p:bpmsuite  (loan)
 
 Now you can import any repository or the demo projects listed below:
 
