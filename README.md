@@ -53,3 +53,8 @@ Possible demo repos:
 
   * https://github.com/jbossdemocentral/bpmsuite-customer-evaluation-repo.git
 
+Released versions
+-----------------
+
+- v1.0 - moved to JBoss Demo Central, added one click installation button.
+
