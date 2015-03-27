@@ -26,9 +26,9 @@ ln -s ${OPENSHIFT_BPMS_DIR}/versions/${version}/jboss/jboss-modules.jar ${OPENSH
 cp -f ${OPENSHIFT_BPMS_DIR}/template/${OPENSHIFT_BPMS_CONFIG_PATH}/standalone.xml ${OPENSHIFT_BPMS_DIR}/standalone/configuration/standalone.xml 
 ln -s ${OPENSHIFT_BPMS_DIR}/template/${OPENSHIFT_BPMS_CONFIG_PATH}/settings.xml ${OPENSHIFT_BPMS_M2_REPO}/settings.xml
 
-ln -s ${OPENSHIFT_BPMS_DIR}/versions/${version}/standalone/deployments/dashbuilder.war ${OPENSHIFT_BPMS_DIR}/standalone/deployments/dashbuilder.war
+
 ln -s ${OPENSHIFT_BPMS_DIR}/versions/${version}/standalone/deployments/business-central.war ${OPENSHIFT_BPMS_DIR}/standalone/deployments/business-central.war
-ln -s ${OPENSHIFT_BPMS_DIR}/versions/${version}/standalone/deployments/dashbuilder.war.dodeploy ${OPENSHIFT_BPMS_DIR}/standalone/deployments/dashbuilder.war.dodeploy
+
 ln -s ${OPENSHIFT_BPMS_DIR}/versions/${version}/standalone/deployments/business-central.war.dodeploy ${OPENSHIFT_BPMS_DIR}/standalone/deployments/business-central.war.dodeploy
 
 
