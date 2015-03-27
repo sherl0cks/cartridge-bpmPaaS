@@ -47,6 +47,9 @@ popd 1> /dev/null
 # Disable Openshift management
 set_env_var DISABLE_OPENSHIFT_MANAGED_SERVER_CONFIG true ~/.env/user_vars
 
+# add in generic loan demo
+ln -s ${OPENSHIFT_BPMS_DIR}/versions/${version}/standalone/data/bpm-suite-demo-niogit ${OPENSHIFT_BPMS_DIR}/standalone/data/.niogit
+
 # Set usernames, generate passwords and create env variables
 echo 'Generating username and password'
 
